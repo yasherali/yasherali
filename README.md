@@ -1,6 +1,6 @@
 
 ## Hi👋 I’m Yasher Ali Azam 
-- 👀 I’m interested in Backend developers.
+- 👀 I’m interested in working as a Backend developer.
 - 🌱 I’m currently learning Python-Django and Django REST Framework.
 - 💞️ I’m looking to collaborate on Backend APIs projects.
 
