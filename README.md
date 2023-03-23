@@ -10,7 +10,7 @@
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/php.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/djangorestframework.png"/>
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/django.png"/>
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50" height="50" alt="java logo">
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 
